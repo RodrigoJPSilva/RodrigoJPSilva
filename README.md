@@ -1,8 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+bem+vindo;+Me+chamo+rodrigo!;" />
 </h1>
-<h3>Desenvolvedor Web Front-End </h3>
-
 
 ![snake gif](https://github.com/RodrigoJPSilva/RodrigoJPSilva/blob/output/github-contribution-grid-snake.gif)
 
