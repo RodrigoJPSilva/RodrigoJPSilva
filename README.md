@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome;+My+name+is+Rodrigo!;" />
 </h1>
 
-![snake gif](https://github.com/RodrigoJPSilva/RodrigoJPSilva/blob/output/github-contribution-grid-snake.gif)
+[![snake gif](https://github.com/RodrigoJPSilva/RodrigoJPSilva/blob/output/github-contribution-grid-snake.gif)](https://raw.githubusercontent.com/RodrigoJPSilva/RodrigoJPSilva/output/snake.svg)
 
 # 💫 About Me:
 im currently studying Java and Web designer!
