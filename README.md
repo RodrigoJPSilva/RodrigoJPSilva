@@ -42,18 +42,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RodrigoJPSilva.RodrigoJPSilva&"  />
-</div>
-
-###
-
 <h1 align="center">hey there 😁</h1>
 
 ###
 
 
 <h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RodrigoJPSilva.RodrigoJPSilva&"  />
+</div>
 
 ###
 
