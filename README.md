@@ -4,12 +4,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me   <img  align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /></h3>
 
 ###
 
 <p align="left">I'm from brasil<br>I'm studying Java and Web desing.
-  <img  align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </p>
 
 ###
