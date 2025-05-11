@@ -7,7 +7,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me   <img  align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /></h3>
+<h2 align="left">👩‍💻  About Me   <img  align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /></h2>
 
 ###
 
@@ -31,11 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-###
-
-
-
 
 ###
 
