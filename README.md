@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome;Rodrigo's+repository)](https://git.io/typing-svg)
 
+###
+
+<h1 align="center">hey there 😁</h1>
 
 
 ###
@@ -41,11 +44,6 @@
 </div>
 
 ###
-
-<h1 align="center">hey there 😁</h1>
-
-###
-
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
