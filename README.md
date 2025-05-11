@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left">I'm from brasil<br>I'm studying Java and Web desing.</p>
+<p align="left">I'm from brasil<br>I'm studying Java and Web desing. <div align="right">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div></p>
 
 ###
 
@@ -31,9 +33,7 @@
 ###
 
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+
 
 ###
 
