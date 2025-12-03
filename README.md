@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">hello there 😁</h1>
+<h1 align="center">hello there :D</h1>
 
 ###
 
@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RodrigoJPSilva.RodrigoJPSilva&"  />
+
 </div>
 
 ###
@@ -38,12 +40,13 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
+<h3 align="left">Github Trophies:</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RodrigoJPSilva.RodrigoJPSilva&"  />
-</div>
 
+
+![471575395-4b2e233b-d247-4076-9850-17e16f9a6862](https://github.com/user-attachments/assets/a43c7686-7e63-4701-b4f9-f82da2b5f0b4)
 
 ###
 
