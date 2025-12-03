@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8F715&width=435&lines=Welcome;Rodrigo's+Repository)](https://git.io/typing-svg)
-
-###
-
-<h1 align="center">hello there :D</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8F715&width=435&lines=Hello+There+:D;Rodrigo's+Repository)](https://git.io/typing-svg)
 
 ###
 
@@ -29,7 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RodrigoJPSilva.RodrigoJPSilva&"  />
+  <img align="right" src="![Uploading languages.svg…]()
+https://visitor-badge.laobi.icu/badge?page_id=RodrigoJPSilva.RodrigoJPSilva&"  />
+  
 
 </div>
 
